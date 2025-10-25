@@ -7,7 +7,7 @@ app = Flask(__name__)
 DB_HOST = "localhost"
 DB_NAME = "verification"
 DB_USER = "nandakumarpn"
-DB_PASS = "Nandakumarpn@!"
+DB_PASS = "NandA12!@#"
 
 @app.route('/')
 def index():
